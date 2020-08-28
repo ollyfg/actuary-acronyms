@@ -1,1740 +1,1875 @@
-These acronyms have been extracted from the ActEd Acronym App as of September 2020.
-
 # Subject: CP1
 
 ### Contract design factors - AMPLE DIRECT FACTORS
 
-- Administration systems
-- Marketability
-- Profitability
-- Level and form of benefits
-- Early leaver benefits
+ - **A**dministration systems
+ - **M**arketability
+ - **P**rofitability
+ - **L**evel and form of benefits
+ - **E**arly leaver benefits
 
-* Discretionary benefits
-* Interests and needs of customers
-* Risk appetite of the parties involved
-* Expenses vs charges
-* Competition
-* Terms and conditions of contract
 
-- Financing (capital requirements)
-- Accounting implications
-- Consistency with other products
-- Timing of contributions or premiums
-- Options and guarantees
-- Regulatory requirements
-- Subsidies (cross)
+ - **D**iscretionary benefits
+ - **I**nterests and needs of customers
+ - **R**isk appetite of the parties involved
+ - **E**xpenses vs charges
+ - **C**ompetition
+ - **T**erms and conditions of contract
+
+
+ - **F**inancing (capital requirements)
+ - **A**ccounting implications
+ - **C**onsistency with other products
+ - **T**iming of contributions or premiums
+ - **O**ptions and guarantees
+ - **R**egulatory requirements
+ - **S**ubsidies (cross)
 
 ### Reasons for calculating provisions - BAD MEDICS
 
-- Benefit improvements for a benefit scheme
-- Accounts and reports / published and internal
-- Discontinuance / surrender benefits
+ - **B**enefit improvements for a benefit scheme
+ - **A**ccounts and reports / published and internal
+ - **D**iscontinuance / surrender benefits
 
-* Mergers and acquisitions
-* Excess of assets over liabilities and so whether discretionary benefits can be awarded
-* Disclosure information for beneficiaries
-* Investment strategy
-* Contribution / premium setting
-* Statutory solvency reports
+
+ - **M**ergers and acquisitions
+ - **E**xcess of assets over liabilities and so whether discretionary benefits can be awarded
+ - **D**isclosure information for beneficiaries
+ - **I**nvestment strategy
+ - **C**ontribution / premium setting
+ - **S**tatutory solvency reports
 
 ### Considerations when using past data to set future assumptions - BEST ARCHER
 
-- Balance of homogenous groups underlying the data may have changed
-- Economic situation may have changed
-- Social conditions may have changed
-- Trends over time, eg medical, demographic
+ - **B**alance of homogenous groups underlying the data may have changed
+ - **E**conomic situation may have changed
+ - **S**ocial conditions may have changed
+ - **T**rends over time, eg medical, demographic
 
-* Abnormal fluctuations
-* Random fluctuations
-* Changes in regulation
-* Heterogeneity within the group to which the assumptions will apply
-* Errors in data
-* Recording differences (eg in categorisation of smoker)
+
+ - **A**bnormal fluctuations
+ - **R**andom fluctuations
+ - **C**hanges in regulation
+ - **H**eterogeneity within the group to which the assumptions will apply
+ - **E**rrors in data
+ - **R**ecording differences (eg in categorisation of smoker)
 
 ### Characteristics of a prime property - CALL ST
 
-- Comparable properties for rent reviews and valuation
-- Age, condition and flexibility of use
-- Location
-- Lease structure
+ - **C**omparable properties for rent reviews and valuation
+ - **A**ge, condition and flexibility of use
+ - **L**ocation
+ - **L**ease structure
 
-* Size
-* Tenant quality
+
+ - **S**ize
+ - **T**enant quality
 
 ### Practical problems with overseas investment - CATERPILLAR
 
-- Custodian needed
-- Additional admin required
-- Time delays
-- Expenses incurred / expertise needed
-- Regulation poor
-- Political instability
-- Information harder to obtain (and less of it)
-- Language difficulties
-- Liquidity problems
-- Accounting differences
-- Restrictions on foreign ownership / repatriation problems
+ - **C**ustodian needed
+ - **A**dditional admin required
+ - **T**ime delays
+ - **E**xpenses incurred / expertise needed
+ - **R**egulation poor
+ - **P**olitical instability
+ - **I**nformation harder to obtain (and less of it)
+ - **L**anguage difficulties
+ - **L**iquidity problems
+ - **A**ccounting differences
+ - **R**estrictions on foreign ownership / repatriation problems
 
 ### Expenses incurred by a product provider - COST RAID
 
-- Commission
-- Overheads
-- Sales / advertising
-- Terminal, eg paying benefits
+ - **C**ommission
+ - **O**verheads
+ - **S**ales / advertising
+ - **T**erminal, eg paying benefits
 
-* Renewal administration, eg collecting premiums / contributions
-* Asset management
-* Initial administration, eg setting up new client records
-* Design of the contract
+
+ - **R**enewal administration, eg collecting premiums / contributions
+ - **A**sset management
+ - **I**nitial administration, eg setting up new client records
+ - **D**esign of the contract
+
+
 
 ### External environment factors - CREATE GRAND LISTS
 
-- Corporate structure
-- Regulation and legislation
-- Environmental issues and climate change
-- Accounting standards
-- Tax
-- Economic outlook (eg interest rates, inflation, growth)
+ - **C**orporate structure
+ - **R**egulation and legislation
+ - **E**nvironmental issues and climate change
+ - **A**ccounting standards
+ - **T**ax
+ - **E**conomic outlook (eg interest rates, inflation, growth)
 
-* Governance
-* Risk management requirements
-* Adequacy of capital and solvency
-* New business environment
-* Demographic trends
 
-- Lifestyle considerations
-- International practice
-- State benefits
-- Technology
-- Social and cultural trends
+ - **G**overnance
+ - **R**isk management requirements
+ - **A**dequacy of capital and solvency
+ - **N**ew business environment
+ - **D**emographic trends
+
+
+ - **L**ifestyle considerations
+ - **I**nternational practice
+ - **S**tate benefits
+ - **T**echnology
+ - **S**ocial and cultural trends
 
 ### Inappropriate advice - CRIMES
 
-- Complicated products
-- Rubbish (ie incompetent) advisor
-- Integrity of advisor lacking, eg due to sales-related payments
-- Model or parameter errors
-- Errors in data relating to members
-- State-encouraged but inappropriate actions
+ - **C**omplicated products
+ - **R**ubbish (ie incompetent) advisor
+ - **I**ntegrity of advisor lacking, eg due to sales-related payments
+ - **M**odel or parameter errors
+ - **E**rrors in data relating to members
+ - **S**tate-encouraged but inappropriate actions
 
 ### Possible reasons for using ART - DESCARTES
 
-- Diversification
-- Exploits risk as an opportunity
-- Solvency improves / source of capital
-- Cheaper cover than reinsurance
-- Available when reinsurance may not be
-- Results smoothed
-- Tax advantages
-- Efficient risk management tool
-- Security of payments improved
+ - **D**iversification
+ - **E**xploits risk as an opportunity
+ - **S**olvency improves / source of capital
+ - **C**heaper cover than reinsurance
+ - **A**vailable when reinsurance may not be
+ - **R**esults smoothed
+ - **T**ax advantages
+ - **E**fficient risk management tool
+ - **S**ecurity of payments improved
 
 ### Benefit scheme info to disclose in accounts - DIM CLAIMS
 
-- Directors' benefit costs
-- Investment return over year
-- Membership movements
+ - **D**irectors' benefit costs
+ - **I**nvestment return over year
+ - **M**embership movements
 
-* Change in surplus / deficit over year
-* Liabilities accruing over year
-* Assumptions
-* Increase in past service liabilities
-* Method
-* Surplus / deficit
+
+ - **C**hange in surplus / deficit over year
+ - **L**iabilities accruing over year
+ - **A**ssumptions
+ - **I**ncrease in past service liabilities
+ - **M**ethod
+ - **S**urplus / deficit
 
 ### Reasons for analysing surplus - DIVERGENCE
 
-- Divergence of actual vs expected (show financial effect /significance of)
-- Information to management and for accounts
-- Variance of whole is equal to the sum of the variances from the individual levers
-- Experience monitoring to feedback into ACC
-- Reconcile values for successive years
-- Group into one-off / recurring sources of surplus
-- Executive remuneration schemes (data for)
-- New business strain (show effects of)
-- Check on valuation assumptions and calculations
-- Extra check on valuation data and process
+ - **D**ivergence of actual vs expected (show financial effect /significance of)
+ - **I**nformation to management and for accounts
+ - **V**ariance of whole is equal to the sum of the variances from the individual levers
+ - **E**xperience monitoring to feedback into ACC
+ - **R**econcile values for successive years
+ - **G**roup into one-off / recurring sources of surplus
+ - **E**xecutive remuneration schemes (data for)
+ - **N**ew business strain (show effects of)
+ - **C**heck on valuation assumptions and calculations
+ - **E**xtra check on valuation data and process
 
 ### Considerations in assessing different models - FENCED
 
-- Fit for purpose
-- Expertise available in house
-- Need flexibility
-- Cost of each option
-- Expected number of times used
-- Desired accuracy
+ - **F**it for purpose
+ - **E**xpertise available in house
+ - **N**eed flexibility
+ - **C**ost of each option
+ - **E**xpected number of times used
+ - **D**esired accuracy
 
 ### Types of actuarial advice - FIR
 
-- Factual advice
-- Indicative advice
-- Recommendations
+ - **F**actual advice
+ - **I**ndicative advice
+ - **R**ecommendations
 
 ### Importance of risk reporting - FRAUD CRIME
 
-- Financing (appropriate price, reserves, capital requirements)
-- Rating agencies
-- Attractiveness to investors
-- Understand better (risks and their financial impact)
-- Determine appropriate control systems
+ - **F**inancing (appropriate price, reserves, capital requirements)
+ - **R**ating agencies
+ - **A**ttractiveness to investors
+ - **U**nderstand better (risks and their financial impact)
+ - **D**etermine appropriate control systems
 
-* Changes over time
-* Regulator
-* Interactions
-* Monitor effectiveness of controls
-* Emerging risk identification
+
+ - **C**hanges over time
+ - **R**egulator
+ - **I**nteractions
+ - **M**onitor effectiveness of controls
+ - **E**merging risk identification
 
 ### Economic situations in which cash is attractive - GRID
 
-- General economic uncertainty
-- Recession expected
-- Interest rates expected to rise
-- Depreciation of domestic currency expected
+ - **G**eneral economic uncertainty
+ - **R**ecession expected
+ - **I**nterest rates expected to rise
+ - **D**epreciation of domestic currency expected
 
 ### Aims of a regulator - GRIP
 
-- Give confidence in the system
-- Reduce financial crime
-- Inefficiencies in the market corrected (and efficient and orderly markets promoted)
-- Protect consumers
+ - **G**ive confidence in the system
+ - **R**educe financial crime
+ - **I**nefficiencies in the market corrected (and efficient and orderly markets promoted)
+ - **P**rotect consumers
 
 ### Economic factors - IS FIERCE
 
-- Inflation
-- Short-term interest rates
+ - **I**nflation
+ - **S**hort-term interest rates
 
-* Fiscal deficit
-* Imports / exports
-* Employment rate
-* Returns on alternative investments
-* Currency
-* Economic growth
+
+ - **F**iscal deficit
+ - **I**mports / exports
+ - **E**mployment rate
+ - **R**eturns on alternative investments
+ - **C**urrency
+ - **E**conomic growth
 
 ### Theories of the yield curve - LIME
 
-- Liquidity preference
-- Inflation risk premium
-- Market segmentation
-- Expectations
+ - **L**iquidity preference
+ - **I**nflation risk premium
+ - **M**arket segmentation
+ - **E**xpectations
 
 ### Factors to consider when setting assumptions - LUNCH
 
-- Legislation / regulation
-- Use of the data
-- Needs of the client
-- Consistency between assumptions
-- How financially significant is/are the assumption(s)
+ - **L**egislation / regulation
+ - **U**se of the data
+ - **N**eeds of the client
+ - **C**onsistency between assumptions
+ - **H**ow financially significant is/are the assumption(s)
 
 ### Main difficulties of overseas investment - MTV
 
-- Mismatching domestic liabilities
-- Taxation (may not be able to recover withholding taxes paid)
-- Volatility of currency
+ - **M**ismatching domestic liabilities
+ - **T**axation (may not be able to recover withholding taxes paid)
+ - **V**olatility of currency
 
 ### Additional criteria for an insurable risk - MUD PIS
 
-- Moral hazard eliminated as far as possible
-- Ultimate limit on liability undertaken
-- Data exists with which to price risk
+ - **M**oral hazard eliminated as far as possible
+ - **U**ltimate limit on liability undertaken
+ - **D**ata exists with which to price risk
 
-* Pooling a large number of similar risks
-* Independent risk events
-* Small probability of occurrence
+
+ - **P**ooling a large number of similar risks
+ - **I**ndependent risk events
+ - **S**mall probability of occurrence
 
 ### Risk responses - PIRATE
 
-- Partially transfer
-- Ignore
-- Reduce
-- Accept (retain all)
-- Transfer
-- Evade (avoid)
+ - **P**artially transfer
+ - **I**gnore
+ - **R**educe
+ - **A**ccept (retain all)
+ - **T**ransfer
+ - **E**vade (avoid)
 
 ### Identification of causes of risk in projects - PNEFCPB
 
-- Political risks
-- Natural risks
-- Economic risks
-- Financial risks
-- Crime
-- Project risks
-- Business risks
+ - **P**olitical risks
+ - **N**atural risks
+ - **E**conomic risks
+ - **F**inancial risks
+ - **C**rime
+ - **P**roject risks
+ - **B**usiness risks
 
 ### General reasons for holding cash - POURS
 
-- Protect monetary values
-- Opportunities (to take advantage of)
-- Uncertain liabilities
-- Recently received cashflow
-- Short-term liabilities
+ - **P**rotect monetary values
+ - **O**pportunities (to take advantage of)
+ - **U**ncertain liabilities
+ - **R**ecently received cashflow
+ - **S**hort-term liabilities
 
 ### When information from a benefit scheme should be disclosed - PRICE
 
-- Payment commencement
-- Request
-- Intervals
-- Combination
-- Entry
+ - **P**ayment commencement
+ - **R**equest
+ - **I**ntervals
+ - **C**ombination
+ - **E**ntry
 
 ### Problems with industry data - QUERIED
 
-- Quantity (credibility)
-- Up-to-date?
-- Errors
-- Relevance (heterogeneity)
-- Incomplete?
-- Exceptionals
-- Detail and format
+ - **Q**uantity (credibility)
+ - **U**p-to-date?
+ - **E**rrors
+ - **R**elevance (heterogeneity)
+ - **I**ncomplete?
+ - **E**xceptionals
+ - **D**etail and format
 
 ### Why financial providers need capital - REG CUSHION
 
-- Regulatory requirement to demonstrate solvency
-- Expenses of launching a new product / starting a new operation
-- Guarantees can be offered
+ - **R**egulatory requirement to demonstrate solvency
+ - **E**xpenses of launching a new product / starting a new operation
+ - **G**uarantees can be offered
 
-* Cashflow timing management
-* Unexpected events cushion, eg adverse experience
-* Smooth profit
-* Help demonstrate financial strength
-* Investment freedom to mismatch in pursuit of higher returns
-* Opportunities. eg mergers and acquisitions
-* New business strain financing
+
+ - **C**ashflow timing management
+ - **U**nexpected events cushion, eg adverse experience
+ - **S**mooth profit
+ - **H**elp demonstrate financial strength
+ - **I**nvestment freedom to mismatch in pursuit of higher returns
+ - **O**pportunities. eg mergers and acquisitions
+ - **N**ew business strain financing
 
 ### Reasons for using reinsurance - SAD LIFE
 
-- Smooth results
-- Avoid large losses
-- Diversification
+ - **S**mooth results
+ - **A**void large losses
+ - **D**iversification
 
-* Limit exposure to risk (single event, accumulations)
-* Increase capacity to accept risk
-* Financial assistance
-* Expertise
+
+ - **L**imit exposure to risk (single event, accumulations)
+ - **I**ncrease capacity to accept risk
+ - **F**inancial assistance
+ - **E**xpertise
 
 ### Reasons for underwriting - SAFARI
 
-- Suitable approach (eg increase premiums) and special terms
-- Avoid anti-selection
-- Financial underwriting against over-insurance
-- Actual experience in line with expected
-- Risk classification (risks rated fairly)
-- Identify substandard health risks
+ - **S**uitable approach (eg increase premiums) and special terms
+ - **A**void anti-selection
+ - **F**inancial underwriting against over-insurance
+ - **A**ctual experience in line with expected
+ - **R**isk classification (risks rated fairly)
+ - **I**dentify substandard health risks
 
 ### Benefits of a good risk management system - SAMOSAS
 
-- Stability / quality of business improved
-- Avoid surprises
-- Management of capital improved
-- Opportunities exploited for profit
-- Synergies identified
-- Arbitrage identified
-- Stakeholders given confidence
+ - **S**tability / quality of business improved
+ - **A**void surprises
+ - **M**anagement of capital improved
+ - **O**pportunities exploited for profit
+ - **S**ynergies identified
+ - **A**rbitrage identified
+ - **S**takeholders given confidence
 
 ### Model design: operational issues - SCARCER FILES
 
-- Simple but retains key features
-- Clear results
-- Adequately documented
-- Range of implementation methods
-- Communicable workings and outputs
-- Easy to understand
-- Refineable and developable
+ - **S**imple but retains key features
+ - **C**lear results
+ - **A**dequately documented
+ - **R**ange of implementation methods
+ - **C**ommunicable workings and outputs
+ - **E**asy to understand
+ - **R**efineable and developable
 
-* Frequency of cashflows / balance accuracy vs practicality
-* Independent verification of outputs
-* Length of run not too long
-* Expense not too high
-* Sensible joint behaviour of variables
+
+ - **F**requency of cashflows / balance accuracy vs practicality
+ - **I**ndependent verification of outputs
+ - **L**ength of run not too long
+ - **E**xpense not too high
+ - **S**ensible joint behaviour of variables
 
 ### Info to disclose to benefit scheme members - SCRIBE
 
-- Strategy for investment
-- Contribution obligations
-- Risks involved
-- Insolvency entitlement
-- Benefit entitlements
-- Expense charges
+ - **S**trategy for investment
+ - **C**ontribution obligations
+ - **R**isks involved
+ - **I**nsolvency entitlement
+ - **B**enefit entitlements
+ - **E**xpense charges
 
 ### Functions of a regulator - SERVICE
 
-- Setting sanctions
-- Enforcing regulations
-- Reviewing and influencing government policy
-- Vetting and registering firms and individuals
-- Investigating breaches
-- Checking management and conduct of providers
-- Educating consumers and the public
+ - **S**etting sanctions
+ - **E**nforcing regulations
+ - **R**eviewing and influencing government policy
+ - **V**etting and registering firms and individuals
+ - **I**nvestigating breaches
+ - **C**hecking management and conduct of providers
+ - **E**ducating consumers and the public
 
 ### Ways of valuing assets - SHAM FADS
 
-- Smoothed market value
-- Historic book value
-- Adjusted book value
-- Market value
+ - **S**moothed market value
+ - **H**istoric book value
+ - **A**djusted book value
+ - **M**arket value
 
-* Fair value
-* Arbitrage value
-* Discounted cashflow
-* Stochastic modelling
+
+ - **F**air value
+ - **A**rbitrage value
+ - **D**iscounted cashflow
+ - **S**tochastic modelling
 
 ### Reasons why disclosure is important - SIMMERS
 
-- Sponsor is aware of financial significance of benefits
-- Informed decisions can be made
-- Mis-selling is avoided
-- Manages the expectations of members
-- Encourages take up
-- Regulatory requirement
-- Security of scheme improved as sponsor / trustees are made more accountable
+ - **S**ponsor is aware of financial significance of benefits
+ - **I**nformed decisions can be made
+ - **M**is-selling is avoided
+ - **M**anages the expectations of members
+ - **E**ncourages take up
+ - **R**egulatory requirement
+ - **S**ecurity of scheme improved as sponsor / trustees are made more accountable
 
 ### Factors affecting investment strategy - SOUNDER TRACTORS
 
-- Size of the assets (absolute / relative)
-- Objectives
-- Uncertainty of the liabilities
-- Nature of the liabilities
-- Diversification
-- Existing portfolio
-- Return (expected long-term)
+ - **S**ize of the assets (absolute / relative)
+ - **O**bjectives
+ - **U**ncertainty of the liabilities
+ - **N**ature of the liabilities
+ - **D**iversification
+ - **E**xisting portfolio
+ - **R**eturn (expected long-term)
 
-* Tax treatment of the assets / investor
-* Restrictions / statutory / legal / voluntary
-* Accrual of liabilities in the future
-* Currency of the existing liabilities
-* Term of the existing liabilities
-* Other funds' strategies (competition)
-* Risk appetite
-* Solvency and accounting requirements
+
+ - **T**ax treatment of the assets / investor
+ - **R**estrictions / statutory / legal / voluntary
+ - **A**ccrual of liabilities in the future
+ - **C**urrency of the existing liabilities
+ - **T**erm of the existing liabilities
+ - **O**ther funds' strategies (competition)
+ - **R**isk appetite
+ - **S**olvency and accounting requirements
 
 ### Types of selection - STATIC
 
-- Spurious
-- Time
-- Adverse
-- Temporary
-- initial
-- Class
+ - **S**purious
+ - **T**ime
+ - **A**dverse
+ - **T**emporary
+ - **i**nitial
+ - **C**lass
 
 ### Investment and risk characteristics of assets - SYSTEM T
 
-- Security (default and other risks)
-- Yield (real or nominal, running yield, expected return, compare with other assets)
-- Spread (volatility of market values, diversification)
-- Term
-- Expenses or Exchange rate
-- Marketability
+ - **S**ecurity (default and other risks)
+ - **Y**ield (real or nominal, running yield, expected return, compare with other assets)
+ - **S**pread (volatility of market values, diversification)
+ - **T**erm
+ - **E**xpenses or Exchange rate
+ - **M**arketability
 
-* Tax
+
+ - **T**ax
 
 ### Regulatory influences on assets held - TECH SCAM
 
-- Types of assets that a provider can invest in
-- Extent to which mismatching is allowed
-- Currency matching requirement
-- Hold certain assets, eg government bonds
+ - **T**ypes of assets that a provider can invest in
+ - **E**xtent to which mismatching is allowed
+ - **C**urrency matching requirement
+ - **H**old certain assets, eg government bonds
 
-* Single counterparty maximum exposure
-* Custodianship of assets
-* Amount of any one asset used to demo solvency may be restricted
-* Mismatch reserve
+
+ - **S**ingle counterparty maximum exposure
+ - **C**ustodianship of assets
+ - **A**mount of any one asset used to demo solvency may be restricted
+ - **M**ismatch reserve
 
 ### Sources of data - TRAINERS
 
-- Tables eg actuarial mortality tables
-- Reinsurers
-- Abroad (data from overseas contracts)
-- Industry data
-- National statistics
-- Experience investigations on the existing contract
-- Regulatory reports and company accounts
-- Similar contracts
+ - **T**ables eg actuarial mortality tables
+ - **R**einsurers
+ - **A**broad (data from overseas contracts)
+ - **I**ndustry data
+ - **N**ational statistics
+ - **E**xperience investigations on the existing contract
+ - **R**egulatory reports and company accounts
+ - **S**imilar contracts
 
 ### Characteristics of investors - TRAITOR
 
-- Tax position
-- Regulation on investor
-- Assets already held
-- Income / cashflow requirements
-- Tastes (liabilities, education, fashion)
-- Other assets and other investors
-- Risk appetite
+ - **T**ax position
+ - **R**egulation on investor
+ - **A**ssets already held
+ - **I**ncome / cashflow requirements
+ - **T**astes (liabilities, education, fashion)
+ - **O**ther assets and other investors
+ - **R**isk appetite
+
 
 # Subject: SA4
 
 ### Sponsor covenant - CAB RIDES
 
-- Credit rating
-- Accounts / Financial metrics
-- Business outlook
+ - **C**redit rating
+ - **A**ccounts / Financial metrics
+ - **B**usiness outlook
 
-* Risk-based measures
-* Independent Business Review
-* Default risk implied by market
-* Employer factors
-* Scheme characteristics
+
+ - **R**isk-based measures
+ - **I**ndependent Business Review
+ - **D**efault risk implied by market
+ - **E**mployer factors
+ - **S**cheme characteristics
 
 ### Pace of funding eg financing/funding methods and assumptions for DB provision - DR FLOSS
 
-- Durability
-- Realism
+ - **D**urability
+ - **R**ealism
 
-* Flexibility
-* Liquidity
-* Opportunity Cost
-* Security
-* Stability
+
+ - **F**lexibility
+ - **L**iquidity
+ - **O**pportunity Cost
+ - **S**ecurity
+ - **S**tability
 
 ### Sponsor covenant - IS FIRM OK
 
-- Implied market default risk
-- Scheme characteristics
+ - **I**mplied market default risk
+ - **S**cheme characteristics
 
-* Financial metrics
-* Independent business review
-* Risk based models
-* Management / quality and views
 
-- Outlook for business
-- Kredit rating
+ - **F**inancial metrics
+ - **I**ndependent business review
+ - **R**isk based models
+ - **M**anagement / quality and views
+
+
+ - **O**utlook for business
+ - **K**redit rating
 
 ### For calculations or comparison of types of valuations - MAD
 
-- Method
-- Assumptions
-- Data (or benefits data based on)
+ - **M**ethod
+ - **A**ssumptions
+ - **D**ata (or benefits data based on)
 
 ### Types of risk - MILLIGRAMS
 
-- Mortality
-- Investment / matching
-- Liquidity
-- Legislative
-- Inflation
-- Governance
-- Reputational
-- Administrative
-- Market movement
-- Selection
+ - **M**ortality
+ - **I**nvestment / matching
+ - **L**iquidity
+ - **L**egislative
+ - **I**nflation
+ - **G**overnance
+ - **R**eputational
+ - **A**dministrative
+ - **M**arket movement
+ - **S**election
 
 ### Technique for use for all questions - NO BRAINER
 
-- News / Topical issues
-- Objectives
+ - **N**ews / Topical issues
+ - **O**bjectives
 
-* Balance (Advs / Disadvs)
-* Reasons
-* Admin / Practicalities
-* Interaction
-* Next steps
-* Examples
-* Regulation
+
+ - **B**alance (Advs / Disadvs)
+ - **R**easons
+ - **A**dmin / Practicalities
+ - **I**nteraction
+ - **N**ext steps
+ - **E**xamples
+ - **R**egulation
 
 ### High level scheme design - PERFECTION
 
-- Practical and legal issues
-- Effects on other benefits
-- Risk
-- Financing by sponsor and member
-- Eligibility
-- Cost and competition
-- Targeting
-- Integration
-- Objectives of sponsor
-- Needs of interested parties
+ - **P**ractical and legal issues
+ - **E**ffects on other benefits
+ - **R**isk
+ - **F**inancing by sponsor and member
+ - **E**ligibility
+ - **C**ost and competition
+ - **T**argeting
+ - **I**ntegration
+ - **O**bjectives of sponsor
+ - **N**eeds of interested parties
+
 
 # Subject: SP2
 
 ### Alteration principles - A B SAFE
 
-- Affordable
+ - **A**ffordable
 
-* Boundary conditions
 
-- Stable
-- Avoid lapse and re-entry
-- Fair
-- Easy to calculate and explain
+ - **B**oundary conditions
+
+
+ - **S**table
+ - **A**void lapse and re-entry
+ - **F**air
+ - **E**asy to calculate and explain
 
 ### Factors to consider for discontinuance terms - A POLICY CEASES
 
-- Auction values
+ - **A**uction values
 
-* Profit (including recovery of costs incurred)
-* O
-* Lapse and re-entry risk
-* Increase in benefits will require underwriting
-* Consistency (with other payouts, premiums paid, and maturity values)
-* Y
 
-- Competition
-- Expectations
-- Asset share
-- Selection
-- Equity
-- Simplicity and stability
+ - **P**rofit (including recovery of costs incurred)
+ - **O**
+ - **L**apse and re-entry risk
+ - **I**ncrease in benefits will require underwriting
+ - **C**onsistency (with other payouts, premiums paid, and maturity values)
+ - **Y**
+
+
+ - **C**ompetition
+ - **E**xpectations
+ - **A**sset share
+ - **S**election
+ - **E**quity
+ - **S**implicity and stability
 
 ### Key words for with-profits distribution - ECSEDED
 
-- Expectations
-- Competition
-- Smoothing
-- Experience
-- Discretion
-- Equity
-- Deferral
+ - **E**xpectations
+ - **C**ompetition
+ - **S**moothing
+ - **E**xperience
+ - **D**iscretion
+ - **E**quity
+ - **D**eferral
 
 ### Reasons for reinsurance - FAIL SAFE
 
-- Financial assistance
-- Avoid large single losses and accumulations of risk
-- Increased capacity to write new business / larger risks
-- Limit exposure to risk
+ - **F**inancial assistance
+ - **A**void large single losses and accumulations of risk
+ - **I**ncreased capacity to write new business / larger risks
+ - **L**imit exposure to risk
 
-* Smooth profit
-* Arbitrage opportunities
-* Favourable rates
-* Expertise
+
+ - **S**mooth profit
+ - **A**rbitrage opportunities
+ - **F**avourable rates
+ - **E**xpertise
 
 ### Product design factors - FORCED CRAMPS
 
-- Financing
-- Onerousness of guarantees
-- Regulation
-- Consistency with other products
-- Extent of cross subsidies
-- Distribution channel
+ - **F**inancing
+ - **O**nerousness of guarantees
+ - **R**egulation
+ - **C**onsistency with other products
+ - **E**xtent of cross subsidies
+ - **D**istribution channel
 
-* Competitiveness
-* Risk characteristics
-* Admin systems (and other expertise)
-* Marketability
-* Profitability
-* Sensitivity of profit
+
+ - **C**ompetitiveness
+ - **R**isk characteristics
+ - **A**dmin systems (and other expertise)
+ - **M**arketability
+ - **P**rofitability
+ - **S**ensitivity of profit
 
 ### Surrender value principles - PALACE DICE
 
-- PRE
-- Asset shares
-- Later durations / maturity values
-- Avoid discontinuities
-- Continuing policyholders
-- Early durations and premiums
+ - **P**RE
+ - **A**sset shares
+ - **L**ater durations / maturity values
+ - **A**void discontinuities
+ - **C**ontinuing policyholders
+ - **E**arly durations and premiums
 
-* Document clearly
-* Infrequent changes
-* Competition
-* Ease of calculation
+
+ - **D**ocument clearly
+ - **I**nfrequent changes
+ - **C**ompetition
+ - **E**ase of calculation
 
 ### Regulatory restrictions - RESTRICT
 
-- Rating factors
-- Expense charges and premium rates
-- Sales channels and procedures
-- Testing (eg u/w)
-- Reserving
-- Investment
-- Contract types
-- Terms and conditions
+ - **R**ating factors
+ - **E**xpense charges and premium rates
+ - **S**ales channels and procedures
+ - **T**esting (eg u/w)
+ - **R**eserving
+ - **I**nvestment
+ - **C**ontract types
+ - **T**erms and conditions
 
 ### Pricing assumptions - RIM PINT CREW
 
-- Reserving basis
-- Investment
-- Mortality
+ - **R**eserving basis
+ - **I**nvestment
+ - **M**ortality
 
-* Profit criterion
-* Inflation
-* New business
-* Tax
 
-- Commission
-- Risk discount rate
-- Expenses
-- Withdrawals
+ - **P**rofit criterion
+ - **I**nflation
+ - **N**ew business
+ - **T**ax
+
+
+ - **C**ommission
+ - **R**isk discount rate
+ - **E**xpenses
+ - **W**ithdrawals
 
 ### Risk factors - RISK A LIFE DROWN CATS
 
-- Reinsurance failure
-- Investment
-- Short-termism of senior management
-- Kompetition
+ - **R**einsurance failure
+ - **I**nvestment
+ - **S**hort-termism of senior management
+ - **K**ompetition
 
-* Actions of distributors
 
-- Legal and regulatory
-- Inflation
-- Fraud
-- Expenses
+ - **A**ctions of distributors
 
-* Data
-* Rates of mortality
-* Options and guarantees
-* Withdrawals (persistency)
-* New business
 
-- Controls
-- Aggregations
-- Tax
-- Selection
+ - **L**egal and regulatory
+ - **I**nflation
+ - **F**raud
+ - **E**xpenses
+
+
+ - **D**ata
+ - **R**ates of mortality
+ - **O**ptions and guarantees
+ - **W**ithdrawals (persistency)
+ - **N**ew business
+
+
+ - **C**ontrols
+ - **A**ggregations
+ - **T**ax
+ - **S**election
 
 ### Reasons for underwriting - SAFARI
 
-- Suitable approach (eg increase premiums) and special terms
-- Avoid anti-selection
-- Financial underwriting against over-insurance
-- Actual experience in line with expected
-- Risk classification (risks rated fairly)
-- Identify substandard health risks
+ - **S**uitable approach (eg increase premiums) and special terms
+ - **A**void anti-selection
+ - **F**inancial underwriting against over-insurance
+ - **A**ctual experience in line with expected
+ - **R**isk classification (risks rated fairly)
+ - **I**dentify substandard health risks
 
 ### List of product types - WEL RIDD
 
-- Whole life assurance
-- Endowment assurance
-- Level term assurance
+ - **W**hole life assurance
+ - **E**ndowment assurance
+ - **L**evel term assurance
 
-* Renewable and convertible term assurance
-* Immediate annuity
-* Deferred annuity
-* Decreasing term assurance
+
+ - **R**enewable and convertible term assurance
+ - **I**mmediate annuity
+ - **D**eferred annuity
+ - **D**ecreasing term assurance
+
 
 # Subject: SP4
 
 ### Contract design factors - AMPLE DIRECT FACTORS
 
-- Administration systems
-- Marketability
-- Profitability
-- Level and form of benefits
-- Early leaver benefits
+ - **A**dministration systems
+ - **M**arketability
+ - **P**rofitability
+ - **L**evel and form of benefits
+ - **E**arly leaver benefits
 
-* Discretionary benefits
-* Interests and needs of customers
-* Risk appetite of the parties involved
-* Expenses vs charges
-* Competition
-* Terms and conditions of contract
 
-- Financing (capital requirements)
-- Accounting implications
-- Consistency with other products
-- Timing of contributions or premiums
-- Options and guarantees
-- Regulatory requirements
-- Subsidies (cross)
+ - **D**iscretionary benefits
+ - **I**nterests and needs of customers
+ - **R**isk appetite of the parties involved
+ - **E**xpenses vs charges
+ - **C**ompetition
+ - **T**erms and conditions of contract
+
+
+ - **F**inancing (capital requirements)
+ - **A**ccounting implications
+ - **C**onsistency with other products
+ - **T**iming of contributions or premiums
+ - **O**ptions and guarantees
+ - **R**egulatory requirements
+ - **S**ubsidies (cross)
 
 ### Sponsor covenant - CAB RIDES
 
-- Credit rating
-- Accounts / Financial metrics
-- Business outlook
+ - **C**redit rating
+ - **A**ccounts / Financial metrics
+ - **B**usiness outlook
 
-* Risk-based measures
-* Independent Business Review
-* Default risk implied by market
-* Employer factors
-* Scheme characteristics
+
+ - **R**isk-based measures
+ - **I**ndependent Business Review
+ - **D**efault risk implied by market
+ - **E**mployer factors
+ - **S**cheme characteristics
 
 ### Pace of funding eg financing/funding methods and assumptions for DB provision - DR FLOSS
 
-- Durability
-- Realism
+ - **D**urability
+ - **R**ealism
 
-* Flexibility
-* Liquidity
-* Opportunity Cost
-* Security
-* Stability
+
+ - **F**lexibility
+ - **L**iquidity
+ - **O**pportunity Cost
+ - **S**ecurity
+ - **S**tability
 
 ### Sponsor covenant - IS FIRM OK
 
-- Implied market default risk
-- Scheme characteristics
+ - **I**mplied market default risk
+ - **S**cheme characteristics
 
-* Financial metrics
-* Independent business review
-* Risk based models
-* Management / quality and views
 
-- Outlook for business
-- Kredit rating
+ - **F**inancial metrics
+ - **I**ndependent business review
+ - **R**isk based models
+ - **M**anagement / quality and views
+
+
+ - **O**utlook for business
+ - **K**redit rating
 
 ### Types of risk - MILLIGRAMS
 
-- Mortality
-- Investment / matching
-- Liquidity
-- Legislative
-- Inflation
-- Governance
-- Reputational
-- Administrative
-- Market movement
-- Selection
+ - **M**ortality
+ - **I**nvestment / matching
+ - **L**iquidity
+ - **L**egislative
+ - **I**nflation
+ - **G**overnance
+ - **R**eputational
+ - **A**dministrative
+ - **M**arket movement
+ - **S**election
 
 ### High level scheme design - PERFECTION
 
-- Practical and legal issues
-- Effects on other benefits
-- Risk
-- Financing by sponsor and member
-- Eligibility
-- Cost and competition
-- Targeting
-- Integration
-- Objectives of sponsor
-- Needs of interested parties
+ - **P**ractical and legal issues
+ - **E**ffects on other benefits
+ - **R**isk
+ - **F**inancing by sponsor and member
+ - **E**ligibility
+ - **C**ost and competition
+ - **T**argeting
+ - **I**ntegration
+ - **O**bjectives of sponsor
+ - **N**eeds of interested parties
 
 ### Factors affecting investment strategy - SOUNDER TRACTORS
 
-- Size of the assets (absolute / relative)
-- Objectives
-- Uncertainty of the liabilities
-- Nature of the liabilities
-- Diversification
-- Existing portfolio
-- Return (expected long-term)
+ - **S**ize of the assets (absolute / relative)
+ - **O**bjectives
+ - **U**ncertainty of the liabilities
+ - **N**ature of the liabilities
+ - **D**iversification
+ - **E**xisting portfolio
+ - **R**eturn (expected long-term)
 
-* Tax treatment of the assets / investor
-* Restrictions / statutory / legal / voluntary
-* Accrual of liabilities in the future
-* Currency of the existing liabilities
-* Term of the existing liabilities
-* Other funds' strategies (competition)
-* Risk appetite
-* Solvency and accounting requirements
+
+ - **T**ax treatment of the assets / investor
+ - **R**estrictions / statutory / legal / voluntary
+ - **A**ccrual of liabilities in the future
+ - **C**urrency of the existing liabilities
+ - **T**erm of the existing liabilities
+ - **O**ther funds' strategies (competition)
+ - **R**isk appetite
+ - **S**olvency and accounting requirements
+
 
 # Subject: SP5
 
 ### Principles (or canons) of lending - CASPAR
 
-- Character and ability of borrower
-- Amount of loan
-- Security
-- Purpose of loan
-- Ability to repay
-- Risk vs return
+ - **C**haracter and ability of borrower
+ - **A**mount of loan
+ - **S**ecurity
+ - **P**urpose of loan
+ - **A**bility to repay
+ - **R**isk vs return
 
 ### Practical problems with overseas investment - CATERPILLAR
 
-- Custodian needed
-- Additional admin required
-- Time delays
-- Expenses incurred / expertise needed
-- Regulation poor
-- Political instability
-- Information harder to obtain (and less of it)
-- Language difficulties
-- Liquidity problems
-- Accounting differences
-- Restrictions on foreign ownership / repatriation problems
+ - **C**ustodian needed
+ - **A**dditional admin required
+ - **T**ime delays
+ - **E**xpenses incurred / expertise needed
+ - **R**egulation poor
+ - **P**olitical instability
+ - **I**nformation harder to obtain (and less of it)
+ - **L**anguage difficulties
+ - **L**iquidity problems
+ - **A**ccounting differences
+ - **R**estrictions on foreign ownership / repatriation problems
 
 ### Behavioural finance - FOAM POEM
 
-- Framing
-- Overconfidence
-- Anchoring and adjustment
-- Myopic loss aversion
+ - **F**raming
+ - **O**verconfidence
+ - **A**nchoring and adjustment
+ - **M**yopic loss aversion
 
-* Prospect theory
-* Options (range of)
-* Estimating probabilities
-* Mental accounting
+
+ - **P**rospect theory
+ - **O**ptions (range of)
+ - **E**stimating probabilities
+ - **M**ental accounting
 
 ### Industry groups specified by the FTSE classification system - FT MUG IS HOT
 
-- Financials
-- Technology
+ - **F**inancials
+ - **T**echnology
 
-* Materials (Basic)
-* Utilities
-* Goods (Consumer)
 
-- Industrials
-- Services (Consumer)
+ - **M**aterials (Basic)
+ - **U**tilities
+ - **G**oods (Consumer)
 
-* Health Care
-* Oil and Gas
-* Telecommunications
+
+ - **I**ndustrials
+ - **S**ervices (Consumer)
+
+
+ - **H**ealth Care
+ - **O**il and Gas
+ - **T**elecommunications
 
 ### Factors to consider when analysing the prospects for a company - MR CHIMP
 
-- Management
-- Retained profits
+ - **M**anagement
+ - **R**etained profits
 
-* Competition within industry
-* History (recent) of company
-* Input costs
-* Market growth prospects
-* Products
+
+ - **C**ompetition within industry
+ - **H**istory (recent) of company
+ - **I**nput costs
+ - **M**arket growth prospects
+ - **P**roducts
 
 ### Reasons for holding money market instruments - POURS GRIDD
 
-- Protection of monetary value
-- Opportunities to invest in other assets
-- Unexpected liabilities to meet
-- Recently received cashflows
-- Short-term liabilities to meet
+ - **P**rotection of monetary value
+ - **O**pportunities to invest in other assets
+ - **U**nexpected liabilities to meet
+ - **R**ecently received cashflows
+ - **S**hort-term liabilities to meet
 
-* General economic uncertainty
-* Recession expected
-* Interest rates expected to rise
-* Depreciation of domestic currency expected
-* Diversification
+
+ - **G**eneral economic uncertainty
+ - **R**ecession expected
+ - **I**nterest rates expected to rise
+ - **D**epreciation of domestic currency expected
+ - **D**iversification
 
 ### Principles underlying the legislation and regulation of institutional investment practices - REPEAT CAFE
 
-- Regular reporting
-- Expert advice
-- Performance measurement
-- Explicit mandates
-- Activism
-- Transparency
+ - **R**egular reporting
+ - **E**xpert advice
+ - **P**erformance measurement
+ - **E**xplicit mandates
+ - **A**ctivism
+ - **T**ransparency
 
-* Clear objectives
-* Appropriate benchmarks
-* Focus on asset allocation
-* Effective decision making and operations
+
+ - **C**lear objectives
+ - **A**ppropriate benchmarks
+ - **F**ocus on asset allocation
+ - **E**ffective decision making and operations
 
 ### Functions of a regulator - SERVICE
 
-- Setting sanctions
-- Enforcing regulations
-- Reviewing and influencing government policy
-- Vetting and registering firms and individuals
-- Investigating breaches
-- Checking management and conduct of providers
-- Educating consumers and the public
+ - **S**etting sanctions
+ - **E**nforcing regulations
+ - **R**eviewing and influencing government policy
+ - **V**etting and registering firms and individuals
+ - **I**nvestigating breaches
+ - **C**hecking management and conduct of providers
+ - **E**ducating consumers and the public
 
 ### Provision of financial services - SICI FOR MICI
 
-- Skill, care and diligence
-- Integrity
-- Customer assets
-- Info about customers
+ - **S**kill, care and diligence
+ - **I**ntegrity
+ - **C**ustomer assets
+ - **I**nfo about customers
 
-* Financial resources
-* Other influences
-* Relations with regulators
 
-- Market practice
-- Info for customers
-- Conflicts of interest
-- Internal organisation
+ - **F**inancial resources
+ - **O**ther influences
+ - **R**elations with regulators
+
+
+ - **M**arket practice
+ - **I**nfo for customers
+ - **C**onflicts of interest
+ - **I**nternal organisation
 
 ### Reporting on the use of derivatives - SLAVE
 
-- Sensitivity analysis
-- List of individual derivatives used
-- Additional explanations needed to ensure that fund's exposure properly understood
-- Valuation of derivatives (at market value)
-- Exposure of portfolio to different asset classes (net of derivatives)
+ - **S**ensitivity analysis
+ - **L**ist of individual derivatives used
+ - **A**dditional explanations needed to ensure that fund's exposure properly understood
+ - **V**aluation of derivatives (at market value)
+ - **E**xposure of portfolio to different asset classes (net of derivatives)
 
 ### Factors affecting investment strategy - SOUNDER TRACTORS
 
-- Size of the assets (absolute / relative)
-- Objectives
-- Uncertainty of the liabilities
-- Nature of the liabilities
-- Diversification
-- Existing portfolio
-- Return (expected long-term)
+ - **S**ize of the assets (absolute / relative)
+ - **O**bjectives
+ - **U**ncertainty of the liabilities
+ - **N**ature of the liabilities
+ - **D**iversification
+ - **E**xisting portfolio
+ - **R**eturn (expected long-term)
 
-* Tax treatment of the assets / investor
-* Restrictions / statutory / legal / voluntary
-* Accrual of liabilities in the future
-* Currency of the existing liabilities
-* Term of the existing liabilities
-* Other funds' strategies (competition)
-* Risk appetite
-* Solvency and accounting requirements
+
+ - **T**ax treatment of the assets / investor
+ - **R**estrictions / statutory / legal / voluntary
+ - **A**ccrual of liabilities in the future
+ - **C**urrency of the existing liabilities
+ - **T**erm of the existing liabilities
+ - **O**ther funds' strategies (competition)
+ - **R**isk appetite
+ - **S**olvency and accounting requirements
 
 ### Investment and risk characteristics of assets - SYSTEM T
 
-- Security (default and other risks)
-- Yield (real or nominal, running yield, expected return, compare with other assets)
-- Spread (volatility of market values, diversification)
-- Term
-- Expenses or Exchange rate
-- Marketability
+ - **S**ecurity (default and other risks)
+ - **Y**ield (real or nominal, running yield, expected return, compare with other assets)
+ - **S**pread (volatility of market values, diversification)
+ - **T**erm
+ - **E**xpenses or Exchange rate
+ - **M**arketability
 
-* Tax
+
+ - **T**ax
+
 
 # Subject: SP7
 
 ### Expenses uncertainty - A TAD NOBLE
 
-- Aggregators
+ - **A**ggregators
 
-* Tax
-* Accounting changes
-* Distribution channels
 
-- New markets
-- Off-shoring
-- Broker power
-- Levies
-- Economic conditions
+ - **T**ax
+ - **A**ccounting changes
+ - **D**istribution channels
+
+
+ - **N**ew markets
+ - **O**ff-shoring
+ - **B**roker power
+ - **L**evies
+ - **E**conomic conditions
 
 ### Factors affecting investment strategy - ADVERSE SUNTAN CORRECTOR
 
-- Accrual of liabilities in the future
-- Diversification
-- Valuation requirements
-- Existing portfolio
-- Restrictions / statutory / legal / voluntary
-- Size of the free assets (absolute / relative)
-- Economic outlook
+ - **A**ccrual of liabilities in the future
+ - **D**iversification
+ - **V**aluation requirements
+ - **E**xisting portfolio
+ - **R**estrictions / statutory / legal / voluntary
+ - **S**ize of the free assets (absolute / relative)
+ - **E**conomic outlook
 
-* Solvency requirements
-* Uncertainty of the liabilities
-* Nature of the liabilities
-* Tax treatment of the assets / insurer
-* Availability of assets
-* Non-investible funds
 
-- Currency of the existing liabilities
-- Other insurers (competition)
-- Risk appetite
-- Reinsurance
-- Expenses
-- Credit rating
-- Term of the existing liabilities
-- Objectives
-- Return (expected long-term)
+ - **S**olvency requirements
+ - **U**ncertainty of the liabilities
+ - **N**ature of the liabilities
+ - **T**ax treatment of the assets / insurer
+ - **A**vailability of assets
+ - **N**on-investible funds
+
+
+ - **C**urrency of the existing liabilities
+ - **O**ther insurers (competition)
+ - **R**isk appetite
+ - **R**einsurance
+ - **E**xpenses
+ - **C**redit rating
+ - **T**erm of the existing liabilities
+ - **O**bjectives
+ - **R**eturn (expected long-term)
 
 ### Investment uncertainty - AGE ROT
 
-- Actions by central bank
-- Globalisation
-- Economic cycle
+ - **A**ctions by central bank
+ - **G**lobalisation
+ - **E**conomic cycle
 
-* Return
-* Overseas influences
-* Type of investment
+
+ - **R**eturn
+ - **O**verseas influences
+ - **T**ype of investment
 
 ### Reserving uncertainty - BALANCED FLACCID DAFT CRUMB
 
-- Behaviour of third parties
-- Amounts of claims
-- Latent claims
-- Assumption on distribution
-- New classes
-- Catastrophes
-- Economic conditions
-- Development patterns
+ - **B**ehaviour of third parties
+ - **A**mounts of claims
+ - **L**atent claims
+ - **A**ssumption on distribution
+ - **N**ew classes
+ - **C**atastrophes
+ - **E**conomic conditions
+ - **D**evelopment patterns
 
-* Frequency of claims
-* Legislation
-* Area (globalisation)
-* Climate change
-* Claim handling procedures
-* Inflation
-* Demand surge
 
-- Distribution channels
-- Arrangements for profit shares
-- Format of data
-- Third party handlers
+ - **F**requency of claims
+ - **L**egislation
+ - **A**rea (globalisation)
+ - **C**limate change
+ - **C**laim handling procedures
+ - **I**nflation
+ - **D**emand surge
 
-* Competitive pressure
-* Reserving philosophy
-* Unusual / large risks
-* Mix of business
-* Bodily injury claims
+
+ - **D**istribution channels
+ - **A**rrangements for profit shares
+ - **F**ormat of data
+ - **T**hird party handlers
+
+
+ - **C**ompetitive pressure
+ - **R**eserving philosophy
+ - **U**nusual / large risks
+ - **M**ix of business
+ - **B**odily injury claims
 
 ### ROC uncertainty - CGI MICE
 
-- Competition
-- Globalisation
-- Insurance cycle
+ - **C**ompetition
+ - **G**lobalisation
+ - **I**nsurance cycle
 
-* Margins on premiums
-* Investment returns
-* Claims
-* Expenses
+
+ - **M**argins on premiums
+ - **I**nvestment returns
+ - **C**laims
+ - **E**xpenses
 
 ### Key risk types - CLOG RUM
 
-- Credit
-- Liquidity
-- Operational
-- Group
+ - **C**redit
+ - **L**iquidity
+ - **O**perational
+ - **G**roup
 
-* Reserve
-* Underwriting
-* Market
+
+ - **R**eserve
+ - **U**nderwriting
+ - **M**arket
 
 ### Problems with inwards RI reserving - CLUB SIGH
 
-- Cedants use different reserving bases
-- Longer reporting delays
-- Upwards development of claims
-- Benchmarks less relevant
+ - **C**edants use different reserving bases
+ - **L**onger reporting delays
+ - **U**pwards development of claims
+ - **B**enchmarks less relevant
 
-* Sparse data
-* IT constraints
-* Grouping of data
-* Heterogeneous exposure
+
+ - **S**parse data
+ - **I**T constraints
+ - **G**rouping of data
+ - **H**eterogeneous exposure
 
 ### Claims characteristics - CRAFT CRAMPS VENDS DRILLS
 
-- Catastrophes
-- Reporting delays
-- Accumulations
-- Frequency
-- Trends
+ - **C**atastrophes
+ - **R**eporting delays
+ - **A**ccumulations
+ - **F**requency
+ - **T**rends
 
-* Currency
-* Reinsurance
-* Amount (severity)
-* Moral hazard
-* Partial payments
-* Settlement delays
 
-- Volatility
-- Event delays
-- Nil claims
-- Definition
-- Seasonality
+ - **C**urrency
+ - **R**einsurance
+ - **A**mount (severity)
+ - **M**oral hazard
+ - **P**artial payments
+ - **S**ettlement delays
 
-* Distribution
-* Reopened claims
-* Inflation
-* Large claims
-* Latent claims
-* Salvage and subrogation
+
+ - **V**olatility
+ - **E**vent delays
+ - **N**il claims
+ - **D**efinition
+ - **S**easonality
+
+
+ - **D**istribution
+ - **R**eopened claims
+ - **I**nflation
+ - **L**arge claims
+ - **L**atent claims
+ - **S**alvage and subrogation
 
 ### Stakeholders of a general insurance company - CRAMPERS
 
-- Credit rating agencies
-- Reinsurers and brokers
-- Auditors
-- Management
-- Policyholders
-- Employees
-- Regulators
-- Shareholders
+ - **C**redit rating agencies
+ - **R**einsurers and brokers
+ - **A**uditors
+ - **M**anagement
+ - **P**olicyholders
+ - **E**mployees
+ - **R**egulators
+ - **S**hareholders
 
 ### Reinsurance analyses - CRAVE APE
 
-- Catastrophe reinsurance
-- Reinstatements
-- Amount of risk to retain
-- Value for money
-- Extent of accumulations
+ - **C**atastrophe reinsurance
+ - **R**einstatements
+ - **A**mount of risk to retain
+ - **V**alue for money
+ - **E**xtent of accumulations
 
-* Appropriateness of cover
-* Profitability of layers
-* Effects on capital
+
+ - **A**ppropriateness of cover
+ - **P**rofitability of layers
+ - **E**ffects on capital
 
 ### Objectives of regulation - CREAM HEMP
 
-- Create liquidity
-- Reduce transaction costs
-- Efficiency of the financial system
-- Allocate resources efficiently
-- Manage risk
+ - **C**reate liquidity
+ - **R**educe transaction costs
+ - **E**fficiency of the financial system
+ - **A**llocate resources efficiently
+ - **M**anage risk
 
-* Help growth and competition
-* Economies of scale in investment
-* Mobilise long-term savings
-* Protect policyholders
+
+ - **H**elp growth and competition
+ - **E**conomies of scale in investment
+ - **M**obilise long-term savings
+ - **P**rotect policyholders
 
 ### Data needed for capital modelling - CRUDE CALF PUP
 
-- Claims payment profiles
-- RI programmes
-- Unpaid gross claims
-- Details of operational risks
-- Expenses
+ - **C**laims payment profiles
+ - **R**I programmes
+ - **U**npaid gross claims
+ - **D**etails of operational risks
+ - **E**xpenses
 
-* Credit exposures
-* Asset values
-* Large losses
-* Future reinsurance costs
 
-- Planned premiums (gross and net)
-- Unexpired premiums (gross and net)
-- Planned RI programmes
+ - **C**redit exposures
+ - **A**sset values
+ - **L**arge losses
+ - **F**uture reinsurance costs
+
+
+ - **P**lanned premiums (gross and net)
+ - **U**nexpired premiums (gross and net)
+ - **P**lanned RI programmes
 
 ### Disadvantages of regulation - EPIC BLOC
 
-- Economies of scale (fewer)
-- Premiums increased
-- Investment return lower
-- Costs
+ - **E**conomies of scale (fewer)
+ - **P**remiums increased
+ - **I**nvestment return lower
+ - **C**osts
 
-* Barriers to entry
-* Less insurance coverage
-* Opportunity cost
-* Complex capital calculations
+
+ - **B**arriers to entry
+ - **L**ess insurance coverage
+ - **O**pportunity cost
+ - **C**omplex capital calculations
 
 ### Claims analyses - INNER CRAP
 
-- Impact / incidence of large claims
-- New claim types
-- Nil claims
-- Expenses vs indemnity cost
-- Re-opened claims
+ - **I**mpact / incidence of large claims
+ - **N**ew claim types
+ - **N**il claims
+ - **E**xpenses vs indemnity cost
+ - **R**e-opened claims
 
-* Changing frequency and severity
-* Recoveries on gross claims
-* Assessing concentrations
-* Partial payments
+
+ - **C**hanging frequency and severity
+ - **R**ecoveries on gross claims
+ - **A**ssessing concentrations
+ - **P**artial payments
 
 ### Capital modelling uncertainty - MIS PI PIP
 
-- Model
-- Incorrect dependencies
-- Simulation
+ - **M**odel
+ - **I**ncorrect dependencies
+ - **S**imulation
 
-* Programming
-* Incomplete data
 
-- Poor data
-- Inconsistent data
-- Parameter
+ - **P**rogramming
+ - **I**ncomplete data
+
+
+ - **P**oor data
+ - **I**nconsistent data
+ - **P**arameter
 
 ### Categories of uncertainty - MR DAMPP
 
-- Model error
-- Random error
+ - **M**odel error
+ - **R**andom error
 
-* Data errors
-* Adjustment factors
-* Market conditions
-* Portfolio movements
-* Parameter error
+
+ - **D**ata errors
+ - **A**djustment factors
+ - **M**arket conditions
+ - **P**ortfolio movements
+ - **P**arameter error
 
 ### Criteria for an insurable risk - MUD PIS
 
-- Moral hazard avoided
-- Ultimate limit to liability
-- Data available to assess the risk
+ - **M**oral hazard avoided
+ - **U**ltimate limit to liability
+ - **D**ata available to assess the risk
 
-* Probability of occurrence is low
-* Independent risks
-* Similar risks pooled
+
+ - **P**robability of occurrence is low
+ - **I**ndependent risks
+ - **S**imilar risks pooled
 
 ### Reasons for purchasing reinsurance - PASS LIFE
 
-- Profitability (increase)
-- Avoid single large losses
-- Smooth results
-- Solvency (improve)
+ - **P**rofitability (increase)
+ - **A**void single large losses
+ - **S**mooth results
+ - **S**olvency (improve)
 
-* Limit exposure to single events or accumulations
-* Increase capacity to accept risk
-* Financial assistance
-* Expertise
+
+ - **L**imit exposure to single events or accumulations
+ - **I**ncrease capacity to accept risk
+ - **F**inancial assistance
+ - **E**xpertise
 
 ### Experience analyses - PEACE REP
 
-- Pricing and sales of policies
-- Environmental changes
-- Anything else the management require
-- Claims reserves estimation / claims experience
-- Expense analysis and allocation
+ - **P**ricing and sales of policies
+ - **E**nvironmental changes
+ - **A**nything else the management require
+ - **C**laims reserves estimation / claims experience
+ - **E**xpense analysis and allocation
 
-* Risk exposure and aggregations
-* Estimation of claim trends
-* Policyholder behaviour
+
+ - **R**isk exposure and aggregations
+ - **E**stimation of claim trends
+ - **P**olicyholder behaviour
 
 ### Assumptions needed for a capital model - REDUCE DOG CRITIC
 
-- RI share of ultimate claims and RI bad debt
-- Exhaustion of reinsurance and reinsurer
-- Downgrade assumptions
-- Ultimate gross claims (including CHE)
-- Ceded premiums
-- Expenses
+ - **R**I share of ultimate claims and RI bad debt
+ - **E**xhaustion of reinsurance and reinsurer
+ - **D**owngrade assumptions
+ - **U**ltimate gross claims (including CHE)
+ - **C**eded premiums
+ - **E**xpenses
 
-* Dividends
-* Operational losses
-* Gross written premium
 
-- Catastrophe claims
-- Reserve movements (gross), by COB
-- Inflation
-- Tax
-- Investment returns, split by asset class
-- Claims payment profiles
+ - **D**ividends
+ - **O**perational losses
+ - **G**ross written premium
+
+
+ - **C**atastrophe claims
+ - **R**eserve movements (gross), by COB
+ - **I**nflation
+ - **T**ax
+ - **I**nvestment returns, split by asset class
+ - **C**laims payment profiles
 
 ### Investment and capital analyses - RICE AD
 
-- Risk assessment
-- Investment policy
-- Capital requirements
-- Evaluate existing portfolio
+ - **R**isk assessment
+ - **I**nvestment policy
+ - **C**apital requirements
+ - **E**valuate existing portfolio
 
-* Allocate capital between classes
-* Determine return on capital
+
+ - **A**llocate capital between classes
+ - **D**etermine return on capital
 
 ### Examples of regulation - SAD ADVERT PROMPTS ACIDIC CALM
 
-- Solvency level
-- Amount / type of business written
-- Disclosure
+ - **S**olvency level
+ - **A**mount / type of business written
+ - **D**isclosure
 
-* Auditing
-* Deposit assets to meet liabilities
-* Valuation basis (assets and liabilities)
-* Equalisation reserve
-* Risk-based capital calculations
-* Type / amount of assets for demonstrating solvency
 
-- Publish premiums
-- Reinsurance requirements
-- Offer required cover
-- Mandatory restrictions on cover
-- Premium rates
-- Treating customers fairly
-- Statement of actuarial opinion
+ - **A**uditing
+ - **D**eposit assets to meet liabilities
+ - **V**aluation basis (assets and liabilities)
+ - **E**qualisation reserve
+ - **R**isk-based capital calculations
+ - **T**ype / amount of assets for demonstrating solvency
 
-* Authorisation of companies / agents / management
-* Cooling off period
-* Illegal products
-* Discounting of liabilities
-* Information used in underwriting
-* Compensation scheme
 
-- Countries where business is written
-- Anti-competitive behaviour
-- Levies to consumer protection bodies
-- Mismatching requirements
+ - **P**ublish premiums
+ - **R**einsurance requirements
+ - **O**ffer required cover
+ - **M**andatory restrictions on cover
+ - **P**remium rates
+ - **T**reating customers fairly
+ - **S**tatement of actuarial opinion
+
+
+ - **A**uthorisation of companies / agents / management
+ - **C**ooling off period
+ - **I**llegal products
+ - **D**iscounting of liabilities
+ - **I**nformation used in underwriting
+ - **C**ompensation scheme
+
+
+ - **C**ountries where business is written
+ - **A**nti-competitive behaviour
+ - **L**evies to consumer protection bodies
+ - **M**ismatching requirements
 
 ### Factors affecting data - SEMI COMA
 
-- Size of company
-- Existence of legacy systems
-- Management and staff
-- Integrity of data systems
+ - **S**ize of company
+ - **E**xistence of legacy systems
+ - **M**anagement and staff
+ - **I**ntegrity of data systems
 
-* Class of business
-* Organisation (nature of)
-* Method of sale
-* Age of company
+
+ - **C**lass of business
+ - **O**rganisation (nature of)
+ - **M**ethod of sale
+ - **A**ge of company
 
 ### When to allow for diversification - SPAR SPA
 
-- Solvency assessment
-- Performance measurement
-- Asset allocation
-- RI purchasing
+ - **S**olvency assessment
+ - **P**erformance measurement
+ - **A**sset allocation
+ - **R**I purchasing
 
-* Strategy setting
-* Pricing
-* Assessing enterprise level risks
+
+ - **S**trategy setting
+ - **P**ricing
+ - **A**ssessing enterprise level risks
 
 ### External environment - STILL CUBIC WAGE
 
-- Seasonality
-- Technological change
-- Investment conditions
-- Latent claims
-- Legislation
+ - **S**easonality
+ - **T**echnological change
+ - **I**nvestment conditions
+ - **L**atent claims
+ - **L**egislation
 
-* Catastrophes
-* Underwriting cycle
-* Behavioural trends
-* Inflation
-* Court awards
 
-- Weather
-- Awareness of the ability to claim
-- Global warming
-- Exchange rates
+ - **C**atastrophes
+ - **U**nderwriting cycle
+ - **B**ehavioural trends
+ - **I**nflation
+ - **C**ourt awards
+
+
+ - **W**eather
+ - **A**wareness of the ability to claim
+ - **G**lobal warming
+ - **E**xchange rates
 
 ### Features of a good model - VAN FUR UP CAVE
 
-- Valid
-- Adequately doc
-- Not overly complex
+ - **V**alid
+ - **A**dequately doc
+ - **N**ot overly complex
 
-* Flexible
-* Understandable by managers
-* Reflect risk profile
 
-- Uncertainty should be verifiable
-- Parameters identified and justified
+ - **F**lexible
+ - **U**nderstandable by managers
+ - **R**eflect risk profile
 
-* Complete
-* Appropriate parameters
-* Verifiable
-* Easy to communicate results
+
+ - **U**ncertainty should be verifiable
+ - **P**arameters identified and justified
+
+
+ - **C**omplete
+ - **A**ppropriate parameters
+ - **V**erifiable
+ - **E**asy to communicate results
 
 ### Criteria for an exposure measure - VENOM ADA
 
-- Verifiable
-- Easy to obtain
-- Non-manipulable
-- Objective
-- Measurable
+ - **V**erifiable
+ - **E**asy to obtain
+ - **N**on-manipulable
+ - **O**bjective
+ - **M**easurable
 
-* Acceptable to the market
-* Defines the risk
-* Acceptable to the policyholder
+
+ - **A**cceptable to the market
+ - **D**efines the risk
+ - **A**cceptable to the policyholder
+
 
 # Subject: SP8
 
 ### Considerations when using exposure curves for treaty pricing - A DISCO
 
-- Availability of exposure curves
+ - **A**vailability of exposure curves
 
-* Deductibles (treatment of)
-* Inuring reinsurances
-* Stacked limits
-* Catastrophe XL rating
-* Original loss ratio (estimation)
+
+ - **D**eductibles (treatment of)
+ - **I**nuring reinsurances
+ - **S**tacked limits
+ - **C**atastrophe XL rating
+ - **O**riginal loss ratio (estimation)
 
 ### Considerations when pricing using ILFs - A LAST CUT
 
-- Assumptions
+ - **A**ssumptions
 
-* Limits (nature of)
-* ALAE
-* Secular changes
-* Trend
 
-- Cover
-- ULAE
-- Territory / Jurisdiction
+ - **L**imits (nature of)
+ - **A**LAE
+ - **S**ecular changes
+ - **T**rend
+
+
+ - **C**over
+ - **U**LAE
+ - **T**erritory / Jurisdiction
 
 ### Expenses uncertainty - A TAD NOBLE
 
-- Aggregators
+ - **A**ggregators
 
-* Tax
-* Accounting changes
-* Distribution channels
 
-- New markets
-- Off-shoring
-- Broker power
-- Levies
-- Economic conditions
+ - **T**ax
+ - **A**ccounting changes
+ - **D**istribution channels
+
+
+ - **N**ew markets
+ - **O**ff-shoring
+ - **B**roker power
+ - **L**evies
+ - **E**conomic conditions
 
 ### Features of good system for monitoring business - ACCREDIT DOT
 
-- Allow for key drivers
-- Calculations not overly complex
-- Clear results
-- Results validated
-- Easy to collect data
-- Documented
-- Inputs consistent
-- Tailored
+ - **A**llow for key drivers
+ - **C**alculations not overly complex
+ - **C**lear results
+ - **R**esults validated
+ - **E**asy to collect data
+ - **D**ocumented
+ - **I**nputs consistent
+ - **T**ailored
 
-* Data validated
-* Output consistent (over time and with other analyses)
-* Timely production of results
+
+ - **D**ata validated
+ - **O**utput consistent (over time and with other analyses)
+ - **T**imely production of results
 
 ### Investment uncertainty - AGE ROT
 
-- Actions by central bank
-- Globalisation
-- Economic cycle
+ - **A**ctions by central bank
+ - **G**lobalisation
+ - **E**conomic cycle
 
-* Return
-* Overseas influences
-* Type of investment
+
+ - **R**eturn
+ - **O**verseas influences
+ - **T**ype of investment
 
 ### Reserving uncertainty - BALANCED FLACCID DAFT CRUMB
 
-- Behaviour of third parties
-- Amounts of claims
-- Latent claims
-- Assumption on distribution
-- New classes
-- Catastrophes
-- Economic conditions
-- Development patterns
+ - **B**ehaviour of third parties
+ - **A**mounts of claims
+ - **L**atent claims
+ - **A**ssumption on distribution
+ - **N**ew classes
+ - **C**atastrophes
+ - **E**conomic conditions
+ - **D**evelopment patterns
 
-* Frequency of claims
-* Legislation
-* Area (globalisation)
-* Climate change
-* Claim handling procedures
-* Inflation
-* Demand surge
 
-- Distribution channels
-- Arrangements for profit shares
-- Format of data
-- Third party handlers
+ - **F**requency of claims
+ - **L**egislation
+ - **A**rea (globalisation)
+ - **C**limate change
+ - **C**laim handling procedures
+ - **I**nflation
+ - **D**emand surge
 
-* Competitive pressure
-* Reserving philosophy
-* Unusual / large risks
-* Mix of business
-* Bodily injury claims
+
+ - **D**istribution channels
+ - **A**rrangements for profit shares
+ - **F**ormat of data
+ - **T**hird party handlers
+
+
+ - **C**ompetitive pressure
+ - **R**eserving philosophy
+ - **U**nusual / large risks
+ - **M**ix of business
+ - **B**odily injury claims
 
 ### Analysis of policy experience - CALMNESS Q
 
-- Cancellations
-- Alterations in premium rates
-- Lapses
-- Mix of business
-- New business volumes
-- Endorsements
-- Strike rate
-- Source (persistency / profitability)
+ - **C**ancellations
+ - **A**lterations in premium rates
+ - **L**apses
+ - **M**ix of business
+ - **N**ew business volumes
+ - **E**ndorsements
+ - **S**trike rate
+ - **S**ource (persistency / profitability)
 
-* Quotation volumes
+
+ - **Q**uotation volumes
 
 ### ROC uncertainty - CGI MICE
 
-- Competition
-- Globalisation
-- Insurance cycle
+ - **C**ompetition
+ - **G**lobalisation
+ - **I**nsurance cycle
 
-* Margins on premiums
-* Investment returns
-* Claims
-* Expenses
+
+ - **M**argins on premiums
+ - **I**nvestment returns
+ - **C**laims
+ - **E**xpenses
 
 ### Expense analysis items - COSMIC
 
-- Computer costs
-- One-off capital costs
-- Salaries and related expenses
-- Maintenance costs (heating, rent, etc)
-- Investment costs
-- Claims handling costs
+ - **C**omputer costs
+ - **O**ne-off capital costs
+ - **S**alaries and related expenses
+ - **M**aintenance costs (heating, rent, etc)
+ - **I**nvestment costs
+ - **C**laims handling costs
 
 ### Claims characteristics - CRAFT CRAMPS VENDS DRILLS
 
-- Catastrophes
-- Reporting delays
-- Accumulations
-- Frequency
-- Trends
+ - **C**atastrophes
+ - **R**eporting delays
+ - **A**ccumulations
+ - **F**requency
+ - **T**rends
 
-* Currency
-* Reinsurance
-* Amount (severity)
-* Moral hazard
-* Partial payments
-* Settlement delays
 
-- Volatility
-- Event delays
-- Nil claims
-- Definition
-- Seasonality
+ - **C**urrency
+ - **R**einsurance
+ - **A**mount (severity)
+ - **M**oral hazard
+ - **P**artial payments
+ - **S**ettlement delays
 
-* Distribution
-* Reopened claims
-* Inflation
-* Large claims
-* Latent claims
-* Salvage and subrogation
+
+ - **V**olatility
+ - **E**vent delays
+ - **N**il claims
+ - **D**efinition
+ - **S**easonality
+
+
+ - **D**istribution
+ - **R**eopened claims
+ - **I**nflation
+ - **L**arge claims
+ - **L**atent claims
+ - **S**alvage and subrogation
 
 ### Stakeholders of a general insurance company - CRAMPERS
 
-- Credit rating agencies
-- Reinsurers and brokers
-- Auditors
-- Management
-- Policyholders
-- Employees
-- Regulators
-- Shareholders
+ - **C**redit rating agencies
+ - **R**einsurers and brokers
+ - **A**uditors
+ - **M**anagement
+ - **P**olicyholders
+ - **E**mployees
+ - **R**egulators
+ - **S**hareholders
 
 ### Reasons to monitor business written - DIAGRAM
 
-- Double check assumptions
-- Influence the market
-- Assess performance vs goals
-- Gain market intelligence
-- Regulators (satisfy)
-- Assist with reserving
-- Manage risk
+ - **D**ouble check assumptions
+ - **I**nfluence the market
+ - **A**ssess performance vs goals
+ - **G**ain market intelligence
+ - **R**egulators (satisfy)
+ - **A**ssist with reserving
+ - **M**anage risk
 
 ### Problems with industry data - DR DONEQ
 
-- Detail insufficient
-- Risk factors coded in different ways
+ - **D**etail insufficient
+ - **R**isk factors coded in different ways
 
-* Differences in target markets
-* Out of date
-* Not everyone contributes
-* Errors
-* Quality only as good as that of contributors
+
+ - **D**ifferences in target markets
+ - **O**ut of date
+ - **N**ot everyone contributes
+ - **E**rrors
+ - **Q**uality only as good as that of contributors
 
 ### Modules in a catastrophe model - H FIVE
 
-- Hazard
+ - **H**azard
 
-* Financial analysis
-* Inventory
-* Vulnerability
-* Event
+
+ - **F**inancial analysis
+ - **I**nventory
+ - **V**ulnerability
+ - **E**vent
 
 ### Capital modelling uncertainty - MIS PI PIP
 
-- Model
-- Incorrect dependencies
-- Simulation
+ - **M**odel
+ - **I**ncorrect dependencies
+ - **S**imulation
 
-* Programming
-* Incomplete data
 
-- Poor data
-- Inconsistent data
-- Parameter
+ - **P**rogramming
+ - **I**ncomplete data
+
+
+ - **P**oor data
+ - **I**nconsistent data
+ - **P**arameter
 
 ### Categories of uncertainty - MR DAMPP
 
-- Model error
-- Random error
+ - **M**odel error
+ - **R**andom error
 
-* Data errors
-* Adjustment factors
-* Market conditions
-* Portfolio movements
-* Parameter error
+
+ - **D**ata errors
+ - **A**djustment factors
+ - **M**arket conditions
+ - **P**ortfolio movements
+ - **P**arameter error
 
 ### Criteria for an insurable risk - MUD PIS
 
-- Moral hazard avoided
-- Ultimate limit to liability
-- Data available to assess the risk
+ - **M**oral hazard avoided
+ - **U**ltimate limit to liability
+ - **D**ata available to assess the risk
 
-* Probability of occurrence is low
-* Independent risks
-* Similar risks pooled
+
+ - **P**robability of occurrence is low
+ - **I**ndependent risks
+ - **S**imilar risks pooled
 
 ### Reasons for purchasing reinsurance - PASS LIFE
 
-- Profitability (increase)
-- Avoid single large losses
-- Smooth results
-- Solvency (improve)
+ - **P**rofitability (increase)
+ - **A**void single large losses
+ - **S**mooth results
+ - **S**olvency (improve)
 
-* Limit exposure to single events or accumulations
-* Increase capacity to accept risk
-* Financial assistance
-* Expertise
+
+ - **L**imit exposure to single events or accumulations
+ - **I**ncrease capacity to accept risk
+ - **F**inancial assistance
+ - **E**xpertise
 
 ### Approaches to risk loading when pricing reinsurance - PRIM
 
-- Proportion of standard deviation of expected losses
-- Required return on capital (based on)
-- Investment-equivalence pricing
-- Marginal impact on capital
+ - **P**roportion of standard deviation of expected losses
+ - **R**equired return on capital (based on)
+ - **I**nvestment-equivalence pricing
+ - **M**arginal impact on capital
 
 ### Rating analyses (existing class) - REP REAP
 
-- Recent periods: estimate cost
-- Existing rates: estimate profit
-- Project forward
+ - **R**ecent periods: estimate cost
+ - **E**xisting rates: estimate profit
+ - **P**roject forward
 
-* Review existing rating structure
-* External data: compare final rates
-* Adjust for lifetime value
-* Profitability of old years on new rates
+
+ - **R**eview existing rating structure
+ - **E**xternal data: compare final rates
+ - **A**djust for lifetime value
+ - **P**rofitability of old years on new rates
 
 ### Important considerations when pricing stop loss - RITA
 
-- Regulatory minima
-- Inuring reinsurance
-- Terms of the stop loss
-- Amount of recoverable layer returned by cedant
+ - **R**egulatory minima
+ - **I**nuring reinsurance
+ - **T**erms of the stop loss
+ - **A**mount of recoverable layer returned by cedant
 
 ### Factors affecting data - SEMI COMA
 
-- Size of company
-- Existence of legacy systems
-- Management and staff
-- Integrity of data systems
+ - **S**ize of company
+ - **E**xistence of legacy systems
+ - **M**anagement and staff
+ - **I**ntegrity of data systems
 
-* Class of business
-* Organisation (nature of)
-* Method of sale
-* Age of company
+
+ - **C**lass of business
+ - **O**rganisation (nature of)
+ - **M**ethod of sale
+ - **A**ge of company
 
 ### Advantages of using original loss curves - SIDE
 
-- Simple to implement
-- Internal consistency
-- Data (OLCs can be used when no credible data)
-- Easy to explain
+ - **S**imple to implement
+ - **I**nternal consistency
+ - **D**ata (OLCs can be used when no credible data)
+ - **E**asy to explain
 
 ### Factors affecting the choice of inflation rate - SLED
 
-- Size of loss
-- Location
-- Excess layer or ground-up losses
-- Drivers of inflation
+ - **S**ize of loss
+ - **L**ocation
+ - **E**xcess layer or ground-up losses
+ - **D**rivers of inflation
 
 ### External environment - STILL CUBIC WAGE
 
-- Seasonality
-- Technological change
-- Investment conditions
-- Latent claims
-- Legislation
+ - **S**easonality
+ - **T**echnological change
+ - **I**nvestment conditions
+ - **L**atent claims
+ - **L**egislation
 
-* Catastrophes
-* Underwriting cycle
-* Behavioural trends
-* Inflation
-* Court awards
 
-- Weather
-- Awareness of the ability to claim
-- Global warming
-- Exchange rates
+ - **C**atastrophes
+ - **U**nderwriting cycle
+ - **B**ehavioural trends
+ - **I**nflation
+ - **C**ourt awards
+
+
+ - **W**eather
+ - **A**wareness of the ability to claim
+ - **G**lobal warming
+ - **E**xchange rates
 
 ### Parameters for an earthquake model - TAMED
 
-- Type of fault
-- Area of fault rupture
-- Moment magnitude
-- Elapsed time since last rupture of that fault
-- Depth (focal)
+ - **T**ype of fault
+ - **A**rea of fault rupture
+ - **M**oment magnitude
+ - **E**lapsed time since last rupture of that fault
+ - **D**epth (focal)
 
 ### Office premium loadings - TCP RICE
 
-- Tax
-- Commission
-- Profit / cost of capital
+ - **T**ax
+ - **C**ommission
+ - **P**rofit / cost of capital
 
-* Reinsurance
-* Investment return
-* Contingencies
-* Expenses
+
+ - **R**einsurance
+ - **I**nvestment return
+ - **C**ontingencies
+ - **E**xpenses
 
 ### Adjustments to data - TRIM RILLS CRUNCH
 
-- Trends
-- Risk
-- Inflation
-- Mix
+ - **T**rends
+ - **R**isk
+ - **I**nflation
+ - **M**ix
 
-* Reinsurance
-* IBNR
-* Large claims
-* Light experience
-* Sales channel
 
-- Cover
-- Regulations
-- Underwriting
-- Nil claims
-- Claims handling
-- Heavy experience
+ - **R**einsurance
+ - **I**BNR
+ - **L**arge claims
+ - **L**ight experience
+ - **S**ales channel
+
+
+ - **C**over
+ - **R**egulations
+ - **U**nderwriting
+ - **N**il claims
+ - **C**laims handling
+ - **H**eavy experience
 
 ### Criteria for an exposure measure - VENOM ADA
 
-- Verifiable
-- Easy to obtain
-- Non-manipulable
-- Objective
-- Measurable
+ - **V**erifiable
+ - **E**asy to obtain
+ - **N**on-manipulable
+ - **O**bjective
+ - **M**easurable
 
-* Acceptable to the market
-* Defines the risk
-* Acceptable to the policyholder
+
+ - **A**cceptable to the market
+ - **D**efines the risk
+ - **A**cceptable to the policyholder
+
+
